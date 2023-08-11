@@ -1,16 +1,22 @@
-### Hi there 👋
+# Gabriel Nicácio da Silva
+🔰Brasil<br/>
+👨🏼‍💻Futuro Desenvolvedor de Software | BackEnd | C#<br/>
+📚Estudante de Analise e Desenvolvimento de Sistemas<br/>
 
-<!--
-**gabrielNicacio-gn/gabrielNicacio-gn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim 
 
-Here are some ideas to get you started:
+Olá! Meu nome é Gabriel Nicácio da Silva e sou um entusiasta de programação apaixonado por desenvolvimento em C#. Tenho explorado e aprendido sobre essa linguagem incrível, e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nicky-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+## Contato 
+
+<div>
+  <a href="https://www.instagram.com/g.nicacio_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "nicaciofc123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-nic%C3%A1cio-b8334322a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
