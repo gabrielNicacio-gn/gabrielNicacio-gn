@@ -1,4 +1,4 @@
-# Gabriel Nicácio da Silva
+# Gabriel Nicácio
 🔰Brasil<br/>
 👨🏼‍💻Futuro Desenvolvedor de Software | BackEnd | C#<br/>
 📚Estudante de Analise e Desenvolvimento de Sistemas<br/>
@@ -6,7 +6,7 @@
 ## Sobre Mim 
 
 Olá!<br/> 
-Meu nome é Gabriel Nicácio da Silva e sou um entusiasta de programação apaixonado por desenvolvimento em C#. Tenho explorado e aprendido sobre essa linguagem incrível, e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
+Sou um entusiasta de programação apaixonado por desenvolvimento em C#. Tenho explorado e aprendido sobre essa linguagem incrível, e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 ## Tecnologias 
 
