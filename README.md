@@ -6,7 +6,7 @@
 ## Sobre Mim 
 
 Olá!<br/> 
-Sou um entusiasta de programação apaixonado por desenvolvimento em C#. Tenho explorado e aprendido sobre essa linguagem incrível, e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
+Sou um apaixonado entusiasta da programação, e minha paixão se concentra principalmente no desenvolvimento em C#. Minha jornada nesse mundo fascinante tem sido uma busca incessante pelo conhecimento e pelo aprimoramento das minhas habilidades nessa linguagem extraordinária.
 
 ## Tecnologias 
 
