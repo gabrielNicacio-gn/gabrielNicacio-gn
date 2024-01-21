@@ -1,12 +1,12 @@
 # Gabriel Nicácio
 🔰Brasil<br/>
-👨🏼‍💻Futuro Desenvolvedor de Software | BackEnd | C#<br/>
+👨🏼‍💻Futuro Desenvolvedor de Software | BackEnd <br/>
 📚Estudante de Analise e Desenvolvimento de Sistemas<br/>
 
 ## Sobre Mim 
 
 Olá!<br/> 
-Sou um apaixonado entusiasta da programação, e minha paixão se concentra principalmente no desenvolvimento em C#. Minha jornada nesse mundo fascinante tem sido uma busca incessante pelo conhecimento e pelo aprimoramento das minhas habilidades nessa linguagem extraordinária.
+Sou um estudante de programação, focado em Back-End, buscando aprimorar os conhecimentos, afim de estar apto a resolver problemas desafiadores.
 
 ## Tecnologias 
 
