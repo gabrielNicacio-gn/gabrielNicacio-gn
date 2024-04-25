@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Nicácio</h1>
-<h3 align="center">Sou um estudante de programação, focado em Back-End, buscando aprimorar os conhecimentos, afim de estar apto a resolver problemas desafiadores</h3>
+<h5 align="center">Sou um estudante de programação, focado em Back-End, buscando aprimorar os conhecimentos, afim de estar apto a resolver problemas desafiadores</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
