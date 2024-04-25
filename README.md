@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gabriel Nicácio</h1>
-<h5 align="center">Sou um estudante de programação, focado em Back-End, buscando aprimorar os conhecimentos, afim de estar apto a resolver problemas desafiadores</h5>
+<h5 align="center">I am a programming student, seeking to improve my knowledge in order to be able to solve challenging problems</h5>
 
 <p align="left"> 
-🔰Brasil<br/>
-👨🏼‍💻Futuro Desenvolvedor de Software | BackEnd <br/>
-📚Estudante de Analise e Desenvolvimento de Sistemas<br/>
+🔰 Brazil<br/>
+👨🏼‍💻 Software Developer | BackEnd <br/>
+📚 Systems Analysis and Development Student<br/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
