@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Nicácio</h1>
 <h5 align="center">Sou um estudante de programação, focado em Back-End, buscando aprimorar os conhecimentos, afim de estar apto a resolver problemas desafiadores</h5>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielnicacio-# Gabriel Nicácio
+🔰Brasil<br/>
+👨🏼‍💻Futuro Desenvolvedor de Software | BackEnd <br/>
+📚Estudante de Analise e Desenvolvimento de Sistemas<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-nic%C3%A1cio-b8334322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-nic%c3%a1cio-b8334322a/" height="30" width="40" /></a>
