@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Nicácio</h1>
-<h5 align="center">I am a programming student, seeking to improve my knowledge in order to be able to solve challenging problems</h5>
+<h5 align="center">I am a programming, seeking to improve my knowledge in order to be able to solve challenging problems</h5>
 
 <p align="left"> 
 🔰 Brazil<br/>
