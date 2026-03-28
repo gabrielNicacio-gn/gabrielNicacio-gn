@@ -18,8 +18,8 @@
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg](https://camo.githubusercontent.com/effec136df8079262f959dbd34a06eac54cdbdc153a944c65ecd19968f4bdcc7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" alt="java" width="40" height="40"/> 
+  <a href="https://camo.githubusercontent.com/effec136df8079262f959dbd34a06eac54cdbdc153a944c65ecd19968f4bdcc7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" target="_blank">
+    <img src="https://camo.githubusercontent.com/effec136df8079262f959dbd34a06eac54cdbdc153a944c65ecd19968f4bdcc7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> 
